@@ -1,0 +1,2 @@
+language = "cpp"
+run = "g++ hello.cpp -o solve && ./solve"
